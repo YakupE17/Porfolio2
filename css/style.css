@@ -1,0 +1,7 @@
+html{scroll-behavior:smooth}
+body{margin:0;overscroll-behavior:none}
+::-webkit-scrollbar{display:none}
+.material-symbols-outlined{font-variation-settings:'FILL' 0;vertical-align:middle}
+.filter-btn.active{background:#4f46e5;color:#dad7ff}
+input:focus,textarea:focus,button:focus-visible,a:focus-visible{outline:none;box-shadow:0 0 0 2px #4cd7f6}
+dl>div{display:flex;flex-direction:column-reverse}
